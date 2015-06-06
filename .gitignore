@@ -1,0 +1,5 @@
+Settings.conf
+eventLog.log
+*.jar
+bin/
+Backups/
